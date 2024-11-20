@@ -1,0 +1,46 @@
+body{
+    background-image: url("https://media.istockphoto.com/id/1214908269/photo/qwerty-buttons-on-the-black-keyboard-the-concept-of-the-most-common-and-unreliable-password.jpg?s=612x612&w=0&k=20&c=ZQ-d71hlJMNxCAAmI5w5Cw1Mxb4z5O2eQ79FM_XtaKo=");
+    background-size:cover;
+    min-width: 300px;
+    box-shadow: 20px;
+    border-radius: 5px;
+
+
+}
+h1{
+    color:white;
+    font-style:solid;
+    font-family: 'Lucida Sans';
+    font-size:25px;
+    font-weight: bolder;
+}
+h2{
+    
+    font-family: 'Times New Roman';
+    text-decoration: underline;
+    font-size:25px;
+    font-weight: bolder;
+    color:green;
+
+}
+input{
+    height:30px;
+    width:250px;
+    box-shadow: inset;
+    font-weight: bold;
+    font-family: serif;
+    font-size:13px;
+}
+
+button{
+    margin: 10px;
+    text-align:center;
+    background-color: chartreuse;
+    color:black;
+    border-width: 0px;
+    border-radius: 2px;
+    height:27px;
+    width:180px;
+    font-size: 15px;
+    font-weight:bold;
+}
